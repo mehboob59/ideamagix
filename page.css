@@ -57,7 +57,7 @@
 ul{
     padding: 12px;
     float: left;
-    width: 900px;
+    width: 67%;
     margin-left: 40px;
     display: flex;
     justify-content: space-around;
@@ -129,7 +129,7 @@ ul{
     position: absolute;
     top: 70%;
     left: 20%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
      -ms-transform: translate(-50%, -50%);
     background-color: rgb(3, 138, 225);
     color: white;
